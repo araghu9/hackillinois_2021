@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hackillinois_2021/static/css/main.abf6211e.chunk.css",
+    "main.js": "/hackillinois_2021/static/js/main.1ac77d8d.chunk.js",
+    "main.js.map": "/hackillinois_2021/static/js/main.1ac77d8d.chunk.js.map",
+    "runtime-main.js": "/hackillinois_2021/static/js/runtime-main.57a0cd9c.js",
+    "runtime-main.js.map": "/hackillinois_2021/static/js/runtime-main.57a0cd9c.js.map",
+    "static/js/2.83e00c1c.chunk.js": "/hackillinois_2021/static/js/2.83e00c1c.chunk.js",
+    "static/js/2.83e00c1c.chunk.js.map": "/hackillinois_2021/static/js/2.83e00c1c.chunk.js.map",
+    "index.html": "/hackillinois_2021/index.html",
+    "precache-manifest.e386735016e1164d589f36ec5dffd512.js": "/hackillinois_2021/precache-manifest.e386735016e1164d589f36ec5dffd512.js",
+    "service-worker.js": "/hackillinois_2021/service-worker.js",
+    "static/css/main.abf6211e.chunk.css.map": "/hackillinois_2021/static/css/main.abf6211e.chunk.css.map",
+    "static/js/2.83e00c1c.chunk.js.LICENSE.txt": "/hackillinois_2021/static/js/2.83e00c1c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hackillinois_2021/static/media/HackIllinoisTheme.f26dfc8a.png",
+    "static/media/logo.svg": "/hackillinois_2021/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57a0cd9c.js",
+    "static/js/2.83e00c1c.chunk.js",
+    "static/css/main.abf6211e.chunk.css",
+    "static/js/main.1ac77d8d.chunk.js"
+  ]
+}
