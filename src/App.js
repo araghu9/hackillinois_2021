@@ -24,7 +24,7 @@ function App() {
         <Toolbar>
           <Typography variant="h4" style={{color: "orange"}}>HackIllinois</Typography>
           <Grid container direction="row" justify="flex-end" alignItems="center">
-            <Tabs style={{minWidth: 250}}>
+            <Tabs>
               <Tab label="Schedule"/>
               <Tab label="Maps"/>
               <Tab label="Mentors"/>
